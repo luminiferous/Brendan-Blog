@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-13T12:32:54+11:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Brendan Huynh</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Bug Bounties and Responsible Disclosure Programs</title><link href="http://localhost:4000/2019/02/12/ethical-hacking.html" rel="alternate" type="text/html" title="Bug Bounties and Responsible Disclosure Programs" /><published>2019-02-12T00:00:00+11:00</published><updated>2019-02-12T00:00:00+11:00</updated><id>http://localhost:4000/2019/02/12/ethical-hacking</id><content type="html" xml:base="http://localhost:4000/2019/02/12/ethical-hacking.html">&lt;p&gt;How ethical hacking and bug bounties are impacting stakeholders?&lt;/p&gt;
+
+&lt;p&gt;Bug Bounties&lt;/p&gt;
+
+&lt;p&gt;A reward offered to a person who identifies and reports an error, vulnerability or an exploit in a computer program, applications. 
+This would include understanding the flaw, and reiterating the setps to reproduce the vulnerability/exploit.These programs are managed by companies as hackerone and major sponsors of bug bounty programs could include uses of major companies such as Facebook, GitHub, Microsoft, United Airlines. Usually, these programs resolve bugs before the general public is aware of them, preventing widespread incidents and ethical hackers or other external parties reach for the right individuals. This is a way to help improve the red teaming capabilities of the community and allows a contribution to white hat hackers. Supported by security experts and provides a way for the community to be involved in the field, these are managed by a panel of volunteers and their contribution to internet security. There are also small incentives for the community to report exploits and vulnerabilities to companies. Since all technology contains bugs and can be exploited by unethnical hackersas, rewards are given based on the impact of the flaw CVSS (Common ulnerability Scoring Standard) as mention in a recent program (Aeternity). Stakeholders that are affected by bug bounty programs include customers when reporting a bug that involved their confidental information, administrator of the company when a major exploit is patched in their application.&lt;/p&gt;
+
+&lt;p&gt;How you can implement thigs you’re learnt throughout the week to test web apps under a responsible disclosure program?&lt;/p&gt;
+
+&lt;p&gt;The vulnerability disclosure model is a policy by a disclosure only after a peroid of time that allows for the vulnerability to be patched. This is implemented by develoing enthical practices when searching for security breaches. Hence, there needs to be a process that clarifies the vulnerability and the process to the team. This can be through using hacking tools such as nmap probably to not be caught, when finding a vulnerabilities to not exploit it without permission and not to access or destroy meta data.&lt;/p&gt;
+
+&lt;p&gt;Artefacts&lt;/p&gt;
+
+&lt;p&gt;https://www.hackerone.com/disclosure-guidelines&lt;/p&gt;
+
+&lt;p&gt;https://www.bugcrowd.com/resource/what-is-responsible-disclosure/&lt;/p&gt;
+
+&lt;p&gt;https://en.wikipedia.org/wiki/Bug_bounty_program#Vulnerability_Disclosure_Policy_Violations
+How I would follo 
+This is illuminated by people such as&lt;/p&gt;</content><author><name></name></author><summary type="html">How ethical hacking and bug bounties are impacting stakeholders?</summary></entry><entry><title type="html">Sprint Week 1</title><link href="http://localhost:4000/2019/02/09/Reflection.html" rel="alternate" type="text/html" title="Sprint Week 1" /><published>2019-02-09T00:00:00+11:00</published><updated>2019-02-09T00:00:00+11:00</updated><id>http://localhost:4000/2019/02/09/Reflection</id><content type="html" xml:base="http://localhost:4000/2019/02/09/Reflection.html">&lt;p&gt;&lt;img src=&quot;/assets/img/cysca.jpg&quot; alt=&quot;&quot; /&gt;
+Introduction&lt;/p&gt;
+
+&lt;p&gt;Being involved with many of CSEC events and having the opportunity to participate in CSYCA competition inspired my ambition to be involved in the studio subject and achieving its objective.&lt;/p&gt;
+
+&lt;p&gt;Learning Contract
+What do you intend to achieve through the project, including learning goals and tasks to be completed?&lt;/p&gt;
+
+&lt;p&gt;With the guidance of my tutors, I sincerely anticipate a clearly understanding of the field for further investment. These learning goals also include enhancing my skills in web pen-testing, reverse engineering, forensics and public speaking. 
+What will be your contribution to the group effort?&lt;/p&gt;
+
+&lt;p&gt;My contribution to the group effect would be collaborating with other members of the studio, communicating with fellow peers.&lt;/p&gt;
+
+&lt;p&gt;What will you learn in that process?&lt;/p&gt;
+
+&lt;p&gt;I learnt during this week, I need to become a better public speaker, poison ivy and other RAT (Remote Access Trojans), revised by Jason’s group on bug bounties and a requirement for improving my understanding of exploits and vulnerabilities.&lt;/p&gt;
+
+&lt;p&gt;What will you produce?&lt;/p&gt;
+
+&lt;p&gt;I will produce a static website, an encapsulation of understanding many vulnerabilities and exploits, improved communication skills and developed skills in hacking.&lt;/p&gt;
+
+&lt;p&gt;What Have we Learned?&lt;/p&gt;
+
+&lt;p&gt;What was essentially learnt during this week were needing to better communicate with the group in both professional level and social level. This is accentuated via my weak co-ordination in the presentation.&lt;/p&gt;
+
+&lt;p&gt;What do we need to Learn? 
+We also need to understand each other’s weaknesses such as the flaws in my public speaking abilities and integrate me into a position well suited, so I can engage the audience with stronger interactions.&lt;/p&gt;
+
+&lt;p&gt;What do we need to do NEXT? 
+collectively – both students and staff&lt;/p&gt;
+
+&lt;p&gt;The members of my group are currently achieving their goals, I however need to improve in my public speaking abilities and engage in more conversations and increase my involvement.Even though Darsh and Larry are great tutors and mentors but since I’m one of the weaker students within the studio, I continue to hope they both continue to contribute to my knowledge and skills in the cyber industry. I also hope to able to use Darsh, Larry, Cameron or Mitchel as a resource to build my confidence.&lt;/p&gt;
+
+&lt;p&gt;What was the feedback I recieved?&lt;/p&gt;
+
+&lt;p&gt;The recent feedback recieved mentios that I need to engage with the stakeholder according to Larry such as the audience with eye contact rather than looking down. I would assume that there isn’t an issue in this area as I have a clear understanding of how to develop my understanding in solving problems. Another requirement is to further develop an understanding of technical skill that I don’t know such as learning about vulnerabilities and how to replicate them.&lt;/p&gt;
+
+&lt;p&gt;What did I do with the feedback I recieved?&lt;/p&gt;
+
+&lt;p&gt;I hope that with more preparation with my public speaking abilities, in a way that the audience would still understand my speech. I hope to gain a better understanding of vulnerabilities and exploits via research. With this feedback, I hope to continue to engage in discussing security flaws with my team members.&lt;/p&gt;
+
+&lt;p&gt;Artefacts&lt;/p&gt;
+
+&lt;p&gt;https://docs.google.com/presentation/d/1zxRvHkERquOuQND0FUnlubxU9orqXl0Aqq1aMY4dND8/edit#slide=id.p Presentation Slides&lt;/p&gt;
+
+&lt;p&gt;https://docs.google.com/document/d/1Ht2Li3OVa0hyiNt_sfGnt-a1XuEwsRauwhnGYN0_ATE/edit Page/Speech Ideas&lt;/p&gt;</content><author><name>Brendan Huynh</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Brendan Huynh!</title><link href="http://localhost:4000/2019/02/08/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Brendan Huynh!" /><published>2019-02-08T03:07:39+11:00</published><updated>2019-02-08T03:07:39+11:00</updated><id>http://localhost:4000/2019/02/08/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2019/02/08/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Brendan Huynh</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
