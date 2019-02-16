@@ -12,7 +12,7 @@ This would include understanding the flaw, and reiterating the setps to reproduc
 
 How you can implement thigs you're learnt throughout the week to test web apps under a responsible disclosure program?
 
-The vulnerability disclosure model is a policy by a disclosure only after a peroid of time that allows for the vulnerability to be patched. This is implemented by develoing enthical practices when searching for security breaches. Hence, there needs to be a process that clarifies the vulnerability and the process to the team. This can be through using hacking tools such as nmap probably to not be caught, when finding a vulnerabilities to not exploit it without permission and not to access or destroy meta data. 
+The vulnerability disclosure model is a policy by a disclosure only after a peroid of time that allows for the vulnerability to be patched. This is implemented by develoing enthical practices when searching for security breaches. Hence, there needs to be a process that clarifies the vulnerability and the process to the team. This can be through using hacking tools such as nmap probably to not be caught, when finding a vulnerabilities to not exploit it without permission and not to access, destroy meta data or take credentials. Other implications are not exposing the vulnerability to the public and ensuring that I report my findings by reiterating the instructions to recreate the vulnerability and figure out possible solutions to overcome the solution. 
 
 Artefacts 
 
@@ -21,6 +21,5 @@ https://www.hackerone.com/disclosure-guidelines
 https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
 
 https://en.wikipedia.org/wiki/Bug_bounty_program#Vulnerability_Disclosure_Policy_Violations
-How I would follo 
-This is illuminated by people such as
+
 
