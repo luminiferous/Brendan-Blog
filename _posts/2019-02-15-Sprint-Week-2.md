@@ -18,7 +18,8 @@ The feedback that I recieved will be used to improve my portfolio, further impro
 Hence, currently inflicted this week due to being flawed with high expectations but a low output displaying my skills in displaying my knowledge of the cyber field.
 
 Artefacts
-
-
+https://docs.google.com/document/d/1N01HWwd6QQTqM3YhYbvLLk5lEKbwdnFfghpdOT3WazA/edit
+https://drive.google.com/drive/folders/1vl1pWFT16MdTaa6a0MKiILw5vkwvOWHM
+https://drive.google.com/drive/folders/1vl1pWFT16MdTaa6a0MKiILw5vkwvOWHM
 
 
