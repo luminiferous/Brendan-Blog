@@ -2,4 +2,11 @@
 layout: post
 tilte: Boot2Root 
 ---
+Boot2Root
+I had recently done hack the box and been consistently been attempting to get my VMware working . This was very troublesome as going through Bridge and NAT etc, tying to configure the files, resinstalling vmmachinines as an attemp to try to solve my problems. When trying to netdiscover to try to discover the machines on my network, the command netdiscover -i eth0 -r 192.186.87.124/24, show only my own ports when on nat, and on bridged would should my ports and my othere physical devices so machines such as kiotrix and pwnlab.Init would not function due to missing files or via not appearing.
 
+Help HTB 
+With the box, with the machine I first looked at youtube videos from IIpsec and hoped that his recent HTB videos would be useful. 
+I first did a nmap scan of the port 10.10.10.121, with the command nmap -sC -sV -oA nmap.nmap 10.10.10.121, which converted the scan into an output of the file nmap.nmap. I then had to open the file with cat nmap.nmap, this show that there were 3 ports that were open, one was the ssh, port 80 http and port 3000, javascript. So I used firefox, connecting to the port 10.10.10.121 and seeing an apache website. I started using various commands such as robot.txt, command injection etc. Then got onto burp, created a poxy with my browser to  intercept with Burp Suite and used burp suite to figure out if there were anything I could do with the headers. 
+
+So I tryed a dirb attack with the command dirb http://10.10.10.121 -r -o something.tmp to create a file with the results of the dirb. So once I did this, there was a directory with was http://10.10.10.121/support which had a login section, a summit a ticket section and a news section. This gave me the opportunity to do a sql injections and other commands. After various attempts I then intercepted the website through a poxy with burp. There was a PHPSESSID which I think I could exploit.
