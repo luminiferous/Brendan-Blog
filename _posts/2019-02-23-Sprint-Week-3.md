@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: Sprint Week 3
  
 ---
