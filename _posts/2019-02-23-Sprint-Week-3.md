@@ -44,19 +44,11 @@ The feedback that I recieved will be further evaluated onto my portfolio, need t
 
 References / Artefacts
 
-Presentation on Wednesday 
+ [Presentation on Wednesday](https://docs.google.com/presentation/d/1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA/edit#slide=id.g50438cf9b5_3_10)
 
- [Slides](https://docs.google.com/presentation/d/1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA/edit#slide=id.g50438cf9b5_3_10)
+[Security Password Tools Research](https://docs.google.com/document/d/1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U/edit#)
 
-Security Password Tools Research
+[Images on HTB](https://docs.google.com/document/d/1memy3_qVn0HtVL6m_kQEy4HBSEQE-i-8xldktHpERUo/edit)
 
-[](https://docs.google.com/document/d/1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U/edit#)
-
-Images on HTB attempt
-
-[](https://docs.google.com/document/d/1memy3_qVn0HtVL6m_kQEy4HBSEQE-i-8xldktHpERUo/edit)
-
-Images of Notes on Free-For-ALL
-
-[](https://docs.google.com/document/d/15PuXJGT0-pd1DEshAeN80tKanJ0_azTqukJsJXvYvA4/edit)
+[Images of Notes on Free-For-ALL](https://docs.google.com/document/d/15PuXJGT0-pd1DEshAeN80tKanJ0_azTqukJsJXvYvA4/edit)
 
