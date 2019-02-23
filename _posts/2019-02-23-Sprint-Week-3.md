@@ -19,26 +19,21 @@ In the free-for-all, there were a lot that was learnt through communicating and 
 Monday
 
 Jason
-
-Jason was messing with webservers images via XVWA (extremely vulnerable web app) through vuln-hub and was messing wih the web image. He also did his reflection during the weekends.
+- Jason was messing with webservers images via XVWA (extremely vulnerable web app) through vuln-hub and was messing wih the web image. He also did his reflection during the weekends.
 
 David 
-
-David did various web challenges on monday and discovered there was a way to get XSRF on burp Suite
+- David did various web challenges on monday and discovered there was a way to get XSRF on burp Suite
 
 Friday
 
 Cameron
-
-Cameron explain through his approach to complete this week's task was to hack into a machine known as kioptrix level 1 through WTF exploit, this is by going through searchsploit and by finding a vulnerability in mod_SSL.
+- Cameron explain through his approach to complete this week's task was to hack into a machine known as kioptrix level 1 through WTF exploit, this is by going through searchsploit and by finding a vulnerability in mod_SSL.
 
 Corey
-
-Corey attempted to complete legacy and Bake on HTB and had vproblems with the directory travesal.  
+- Corey attempted to complete legacy and Bake on HTB and had vproblems with the directory travesal.  
 
 Harry 
-
-Harry did HTB walkthrough popcorn and Raven 2 walkthrough.
+- Harry did HTB walkthrough popcorn and Raven 2 walkthrough.
 
 Feedback that I recieved
 
