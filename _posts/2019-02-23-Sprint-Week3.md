@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: Week 4 Sprint 
+
 ---
 
 This week has been actual breaking into systems. 
