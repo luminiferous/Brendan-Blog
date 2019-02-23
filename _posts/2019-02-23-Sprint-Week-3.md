@@ -7,7 +7,7 @@ Reflection
 
 This week I had to concentrate on completing the presentation on tools based on password crackers and actually attempting to complete attacking and breaking into system as this was a requirement for the subject and/or joining a program for breaking into machines. This mostly accenturated by attempting the Help HTB (Hack the Box), popcorn and legacy HTB attempts. Other importance learning Invoked this week included learning how to capture the flag on Deloitte, SecTalks and PwnLabs.Init (went through the walkthrough as the machine still couldn't work) were other activities that I completed during this week. With industry guidence, one of the guys presenting on Wednesday gave assistance such as mentioning SSL and to use metasploit console. I also started using OWASP zap and understanding how the tool functions to generate reports for the user that finds vulnerabilities. 
 
-SecTalks is another factor in my learning as the involvement in understanding various tools used to intercept analogy signals and converting it to pcaps was interesting to comprehend. listening to industry is another major incident in where I got some experience in the field and to engage with real security professionals and how read teaming and blue teamings functions, the areas that the cyber field offers as metioned on their sides and their experiences which includes Web Application Penetration Testing, Mobile Application Testing and Code Review, Physical Security and Social Engineering and Red Team Operations. Another personal insight that was gained through this week was through Jai's presentation of the challenge, 
+SecTalks is another factor in my learning as the involvement in understanding various tools used to intercept analogy signals and converting it to pcaps was interesting to comprehend. listening to industry is another major incident in where I got some experience in the field and to engage with real security professionals and how read teaming and blue teamings functions, the areas that the cyber field offers as metioned on their sides and their experiences which includes Web Application Penetration Testing, Mobile Application Testing and Code Review, Physical Security and Social Engineering and Red Team Operations. Another personal insight that was gained through this week was through Jai's presentation of the challenge, mentioning that we shouldn't have done what the presenters had done as they had knowledge of the port. In a real World scenario in which we wouldn't have access to the port, there are different nmap commands that we could use in this situation.
 
 Attempting the help htb challenge.
 
@@ -22,7 +22,7 @@ Monday
 
 Jason
 
-Jason was messing with webservers images via XVWA (extremely vulnerable web app) through vuln-hub and was messing wih the web image. He also 
+Jason was messing with webservers images via XVWA (extremely vulnerable web app) through vuln-hub and was messing wih the web image. He also did his reflection during the weekends.
 
 David 
 
@@ -32,7 +32,7 @@ Friday
 
 Cameron
 
-Cameron explain through his approach to complete this week's task was to hack into a machine known as kioptrix level 1 through WTF exploit, this is by going through searchsploit and by finding a vulnerability in mod_SSL
+Cameron explain through his approach to complete this week's task was to hack into a machine known as kioptrix level 1 through WTF exploit, this is by going through searchsploit and by finding a vulnerability in mod_SSL.
 
 Corey
 
@@ -42,16 +42,28 @@ Harry
 
 Harry did HTB walkthrough popcorn and Raven 2 walkthrough.
 
-FeedBack that I recieved
+Feedback that I recieved
 
-he constructive feedback recieved by Larry throughout the past two weeks indicated through my flaws in public speaking as accentuated a requirement for more confident in my body language, less fiddling, no pauses when speaking, and more direct eye contract and focus on the audience when presenting to stakeholders and classmates. Other disappointing development were the intensive technical details that were presented, However, I have to admitt that I was confused on what the questions for friday task was asking. It was stated by Larry through our discussion that my technical skills weren't as necessary for the values of major stakeholders (SLO 1).
-
-What did I do with the Feedback I recieved
-The feedback that I recieved will be used to improve my portfolio, further improve my public speaking issues and my presentation issues to achieve the SLO outcomes hopefully in the following weeks. Should had and will ask anyone in the studio for guidance, both tutors and students when in need of assistence. Time management is annother issues as I need o effective evaluate where to usemy time effectively in response to the massive work load that is accumulating each week. To address many of my problem, I distinctly recommend that I be more open and ask more questions when requiring assistence.
-Hence, currently inflicted this week due to being flawed with high expectations but a low output displaying my skills in displaying my knowledge of the cyber field.
+The constructive feedback that was reciveved encouraged from the representative during the industry presentation accentuated a more better understanding of how to engage with challenge. THe recent speech given to the studio to my understanding wasn't satisfactory to complete the SLO as I believed that there needs to be clarity in my speaking, more eye contact and be more engaging to the audience. Another aspects I believe I failed in was completing an active hack the box challenge as it had become difficult and I had wasted more time than needed on configuring my machines rather than actually doing the challenges. I also need to further understand more commands and how they function, adopting a pen tester's mindset is also anther important aspect that I need to work on. This involves how I would approach the problem, how would I approach it. 
 
 
-References 
+The feedback that I recieved will be further evaluated onto my portfolio, need to improve public speaking issues and my presentation issues to achieve the SLO outcomes hopefully by next week. Time management is still a reocurring issue as I need to be more effective evaluate where to use my time effectively and not waste most of the time attempt to get the machines to work. Hence, currently understanding the content this week dispite it being heavy and will still continue attempting more challenges in the future. 
 
+References / Artefacts
 
+Presentation on Wednesday 
+
+https://docs.google.com/presentation/d/1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA/edit#slide=id.g50438cf9b5_3_10
+
+Security Password Tools Research
+
+https://docs.google.com/document/d/1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U/edit#
+
+Images on HTB attempt
+
+https://docs.google.com/document/d/1memy3_qVn0HtVL6m_kQEy4HBSEQE-i-8xldktHpERUo/edit
+
+Images of Notes on Free-For-ALL
+
+https://docs.google.com/document/d/15PuXJGT0-pd1DEshAeN80tKanJ0_azTqukJsJXvYvA4/edit
 
