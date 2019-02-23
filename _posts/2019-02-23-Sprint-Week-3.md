@@ -35,10 +35,11 @@ Corey
 Harry 
 - Harry did HTB walkthrough popcorn and Raven 2 walkthrough.
 
-Feedback that I recieved
+**What was the feedback I recieved?**
 
 The constructive feedback that was reciveved encouraged from the representative during the industry presentation accentuated a more better understanding of how to engage with challenge. THe recent speech given to the studio to my understanding wasn't satisfactory to complete the SLO as I believed that there needs to be clarity in my speaking, more eye contact and be more engaging to the audience. Another aspects I believe I failed in was completing an active hack the box challenge as it had become difficult and I had wasted more time than needed on configuring my machines rather than actually doing the challenges. I also need to further understand more commands and how they function, adopting a pen tester's mindset is also anther important aspect that I need to work on. This involves how I would approach the problem, how would I approach it. 
 
+**What did I do with the feedback I received?**
 
 The feedback that I recieved will be further evaluated onto my portfolio, need to improve public speaking issues and my presentation issues to achieve the SLO outcomes hopefully by next week. Time management is still a reocurring issue as I need to be more effective evaluate where to use my time effectively and not waste most of the time attempt to get the machines to work. Hence, currently understanding the content this week dispite it being heavy and will still continue attempting more challenges in the future. 
 
