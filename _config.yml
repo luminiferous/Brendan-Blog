@@ -15,12 +15,10 @@
 title: Brendan Huynh
 email: brendanzhuynh@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-image: "/assets/21313.PNG"
+ Enjoying the path of approaching my goals to become a security professional. 
+image: "/assets/img/hello(1).jgp"
 baseurl: "/Brendan-Blog" # the subpath of your site, e.g. /blog
-url: "luminiferous.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  luminiferous
 
