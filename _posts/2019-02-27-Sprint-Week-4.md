@@ -33,9 +33,9 @@ Hack the Box Curling - N/A
 
 Hack the Box Carrier - N/A
 
-Presentation slides - [](https://drive.google.com/open?id=1sfZNZsLgQOGhW8FMu483_e9O0ge2O9BubyMK0KF6hjg)
-
-Word Document on the slides - [](https://drive.google.com/open?id=1hf7kde11NahWPmzVi7FfcQhzxwxPrewue3rix4YOtQw)
+ [Presentation slides](https://drive.google.com/open?id=1sfZNZsLgQOGhW8FMu483_e9O0ge2O9BubyMK0KF6hjg)
+ 
+[Word Document on the slides](https://drive.google.com/open?id=1hf7kde11NahWPmzVi7FfcQhzxwxPrewue3rix4YOtQw)
 
 
 
