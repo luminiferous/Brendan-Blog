@@ -32,32 +32,47 @@ There are different purposes of using a password cracking tool, however attacks 
 
 **References**
 From Wikipedia, the free encyclopedia, *HashCats - Documentation*, viewed on 19 February 2019,  https://en.wikipedia.org/wiki/Hashcat> 
+
 John the Ripper, *Documentation*, viewed on 18 February 2019
 <https://www.openwall.com/john/doc/MODES.shtml>
+
 John the Ripper, *Documentation*, viewed on 18 February 2019,
 <https://www.openwall.com/john/doc/EXTERNAL.shtml>
+
 From Wikipedia, the free encyclopedia, *John the Ripper* - Documentation, viewed on 19 February 2019,  
 <https://en.wikipedia.org/wiki/John_the_Ripper>
+
 Wikipedia, the free encyclopedia, *Password Cracking* - Documentation, viewed on 19 February 2019, 
 <https://en.wikipedia.org/wiki/Password_cracking>
+
 From SearchSecurity, *How to prevent password attacks and other exploits* - Blog/Article, viewed on 19 February 2019,
 <https://searchsecurity.techtarget.com/tip/How-to-prevent-password-attacks-and-other-exploits>
+
 Wikipedia, the free encyclopedia, *Password Cracking - Documentation*, viewed on 19 February 2019, 
 <https://en.wikipedia.org/wiki/Multi-factor_authentication>
+
 Livescience, *Defense Department Password is Cracking in 9 seconds. So how Safe are US Weapons - Blog/Article*, viewed on 19 February 2019,
 <https://www.livescience.com/63841-defense-department-weapons-vulnerable-cyberattacks.html>
+
 Infosec Institute,*Hashcat tutorial for Beginners - Tutorial*, viewed on 18 February 2019,
 <https://resources.infosecinstitute.com/hashcat-tutorial-beginners/#gref>
+
 From Wikipedia, the free encyclopedia, *Dictionary attack - Documentation*, viewed on 19 February 2019,  
 <https://en.wikipedia.org/wiki/Dictionary_attack>
+
 From Wikipedia, the free encyclopedia, *brute force attack - Documentation*, viewed on 19 February 2019,  
 <https://en.wikipedia.org/wiki/Brute-force_attack>
+
 From Wikipedia, the free encyclopedia, *Hashcat- Documentation*, viewed on 19 February 2019,  
 <https://en.wikipedia.org/wiki/Hashcat>
+
 HashCat, hashcat - *Documentation*, viewed on 19 February 2019,  
 <https://hashcat.net/hashcat/>
+
 Tech Insider 2018, *People are being victimized by a terrifying new email scam where attackers claim they stole your password and hacked your webcam while you were watching porn — here's how to protect yourself*, viewed 19 February 2019, <https://www.businessinsider.com.au/new-email-scam-uses-old-password-fake-porn-threats-webcam-video-bitcoin-2018-7?r=US&IR=T>
+
 **Artefacts**
+
 Password tools slides - https://drive.google.com/open?id=1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA
 
 Password tools word - https://drive.google.com/open?id=1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U
