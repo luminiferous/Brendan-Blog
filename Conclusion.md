@@ -16,18 +16,18 @@ Attempting the studio as an inital stepping stone to my involvement in the cyber
 
 **SLO 1) Engage with Stakeholders to Identify a Problem**
 
-The concepts of security is significant to further 
-The sensation of presenting to tutors, 
-When presenting the RSA SecurID breach to the studio, my first attempt was a major
+The concepts of cyber security to protect against malicious attacks, informing the fundamental concepts of security as presented throughout the subjects has provided a clear understanding of how security impacts business practices and stakeholders. Various visits of security professionals illustrated the building blocks by which the students in studio get a understanding of the how the field workss as a whole. The introduction of industry professionals, Robert Mitchell provided the studio with a presentation of a methods of attack, firewalls and various other security topics based around the development of technology. Showing us through the problem with cloud services and their vulnerabilities, bywhich there are many targetable areas allows more risk for businessess such as Amazon that rely heavily on their cloud servers. Unlike firewall which is easily defend, Robert Mitchell clearly explained the applications and the development of security as a whole. 
 
-The security mind
+The problem with cyber security is its massive impacts when stakeholders are inflicted by attacks by hackers. This is represented by the RSA SecurID 60 million dollar lost when the security systems where breached. By reaseach and studying vulnerabilities I cam to a clear understanding of how security in the workforce operated and human error being a major impact for many business when uneducated on the important of cyber security. Security professionals in cyber are required to have both skills and knowledge in testing a web application or a system, understand what can I exploit and find ways to exploits vulnerabilities that are found on a machine/ web application.
 
-The introduction of industry professionals, Robert Mitchell provided the studio with a presentation of a method to 
+The sensation of presenting to tutors, explain the RSA breach and its effects when I gave my speech showed many of my flaws and weaknesses to the studio, when reflecting, engaging with stakeholders and understanding their through process is esseintial in a business environment  in understanding how a security professional can interact to a stakeholder in terms they can understand.
+When presenting the RSA SecurID breach to the studio, my attempt to give a high level perspective with the effects and improves of the tool that was used during the attack also detailed my connection to stakeholders as I was engaging in a high levvel that makes it easier to people oblivious to cyber security. The significant in understanding how to present exploits and vulnerabilitites to stakeholders in a way that encompasses the whole topic in a simplistic high level point of view will give an easier way for the community to udnerstand would prevent many attacks from happening due to human error.
 
-
-THe significant in understanding how to present exploits and vulnerabilitites to stakeholders in a way that encompasses the whole topic in a simplistic high level point of view will enco
+The security mind  as a ethical hacker and breaking into systems and web applications when being discussed with Luke Fuehrer, demonstrate the mindset of both a blue team hacker and a red team hacker, understanding the basics in approaches as in the metaphor with the foxes and the rabbits as a framework of security. When Luke explained what XXS (Cross Site Scripting) was he drove into problems that were present in most web applications and 3rd on OWASP, as on of the most used attacks. These are issues that security engineering faced on a daily basis and are required to further expand their understanding of the field when technology further advances.
 
 **Artefacts**
+
+
 
 **SLO 2) Apply Design Thinking To Respond To A Defined Or Newly Identified Problem**
 
@@ -37,12 +37,29 @@ Demonstrating the importance of cyber security to stakeholders to ensure that we
 
 By compeleting various Overthe Wire challenges, both Natas and Bandits challenges enpowered my knowledge and skills on how to use the linux kernel and how to attack web applications.
 
-**SLO 3) Apply the Technical Skills to Develop, Model and Evaluate a Design** 
+Having the right mindset is significant for a cyber security professional in understanding the right approach in breaking or protecting a system. When Luke discuss the 
 
-Applying technical skills to develop, model and evalutate a design was 
+Understanding key points 
+
+When jai presented 
 
 **Artefacts**
 
+**SLO 3) Apply the Technical Skills to Develop, Model and Evaluate a Design** 
+
+Applying technical skills to develop, model and evalutate a design by reseaching and understanding how vulnerabilities and exploits impact professionals to test
+
+RSA SecurID 
+
+
+Understanding the important and the function of various tools, nmap, john the ripper, hashcat 
+
+Reversing a program in week 4 with reverse enginer
+
+**Artefacts**
+
+Hack The Box Help 
+Hack The Box Lame 
 
 **SLO 4) Demonstrate Effective Collaboration and Communication Skills** 
 
@@ -57,6 +74,7 @@ The Expo, when I had to do a live demo of the HTB lame to other studio students 
 Free-For-All sessions between the studio accomplished a better foothold of what everyone did during the weekends. These free-for-alls are giving each other information by getting into small groups and collaborating on what we have done, learnt and continue on doing as we learn from other sutdents and their experiences with either CTF, research, HTB challenges, pentester labs. Collaborating with both high level and technical details on how we solve problems and what we did when there was an obstacle gave us ways to explore options to overcome such obstacles. 
 
 **Artefacts**
+Security tools - https://drive.google.com/open?id=1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U
 
 
 
