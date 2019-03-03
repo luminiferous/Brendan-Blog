@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-<img src="/assets/img/21313.PNG"/>
+<img src="/_site  /assets/img/21313.PNG"/>
