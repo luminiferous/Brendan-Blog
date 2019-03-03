@@ -6,7 +6,8 @@ author: Brendan Huynh
 
 ---
 
-* **Sprint Reflection**
+**Sprint Reflection**
+
 The final week was reverse engineering, apply our skills and knowledge to demonstrate to stakeholders, achieving root access on a Hack the Box machine and documenting the report and the process. This also tested how well we progressed throughout the four weeks as we gained insight and to further involve the continuation of the previous task in exploiting vulnerable machines. Other important features include documenting my HTB challenges through a given format and continuing learning other exploits.
 
 The focus on presenting to other studios and reverse engineering with Ruben T. was significant with the presentation by intensely developing my understanding through the reversing, how the functions operate and how the commands in gdb functions.
@@ -18,6 +19,7 @@ The presentation to the students of other studios also involved accentuating a m
 
 
 **Feedback** 
+
 The feedback from Darsh (tutor) indicated that I was on the right path, continuing to do more CTF challenges and HTB challenges would further increase my understanding of the topics that were learnt throughout the weeks. I also attempted to use the feedback from the previous week as motivation for my development in public speaking to the fellow peers that didn't have knowledge of how to break into a machine. Recently involving 
 
 
