@@ -16,8 +16,8 @@ title: Brendan Huynh
 email: brendanzhuynh@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
  Enjoying the path of approaching my goals to become a security professional. 
-image: "/assets/img/hello[1].jgp"
-baseurl: "Brendan-Blog" # the subpath of your site, e.g. /blog
+image: ""
+baseurl: "/Brendan-Blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  luminiferous
@@ -27,12 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  
-defaults: 
- - scope: 
-   path: "assets/img"
-  values: 
-  image: true
+
   
 
 # Exclude from processing.
