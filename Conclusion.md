@@ -27,36 +27,29 @@ The security mind  as a ethical hacker and breaking into systems and web applica
 
 **Artefacts**
 
-
-Luke's Notes - https://drive.google.com/open?id=1J176DymCyM0tzv-TWVo_DQ6Ej627EwJF
-DeloPitte notes -https://drive.google.com/open?id=1zGz7fWA4IlYkJv6qVwq_IawnIunBPtGwSAPL6Z3T1aQ
+- Luke's Notes - https://drive.google.com/open?id=1J176DymCyM0tzv-TWVo_DQ6Ej627EwJF
+- DeloPitte notes -https://drive.google.com/open?id=1zGz7fWA4IlYkJv6qVwq_IawnIunBPtGwSAPL6Z3T1aQ
 
 
 **SLO 2) Apply Design Thinking To Respond To A Defined Or Newly Identified Problem**
+When considering stakeholders, ensuring that a website and a system is secured in response to future attacks is important when considering vulnerabilities and exploits. With technology consistently improving and changing, it is important to ensure that the technical workings of security develop and continue to learn the outer and inner working of systems and web applications. Reflecting on the past 4 weeks, the various exploits and exploits learn't is important for security professionals to understand and engage with a skillful accentuation of said understanding through breaking into vulnerable web applications and systems. By developing skills to respond to situations by using a cyber security mindset involves the professional to explore different solutions to solve the same problem. There are various ways for a security professional to be involved with taking advantage of security flaws and vulnerabilities through aplying their knowledge of how the actual exploit functions.
 
-With technology consistently improving and changing, it is important to ensure that the technical workings of security develop and continue to learn the outer and inner working of systems and web applications. Reflecting on the past 4 weeks, the various exploits and exploits learn't is important for security professionals to understand and engage with a skillful accentuation of said understanding through breaking into vulnerable web applications and systems. By developing skills to respond to situations by using a cyber security mindset involves the professional to explore different solutions to solve the same problem. There are various ways for a security professional to be involved with taking advantage of security flaws and vulnerabilities through aplying their 
+Demonstrating the importance of cyber security to stakeholders to ensure that web applications and machines are properly secure and safe from any common risk and exploit. Focusing on both web application and attacking machines as I'm still quite new to the field, with my attempt on machines on hack the box both active and retired whilist doing writeups. This will further provide a better understanding of using drib (directory buster), Burp Suite, wget, netdiscover and various other tools and improve my skills. Expanding on my current knowledge of cyber security, this subject has helped my development into the cyber security industry. By compeleting various Overthe Wire challenges, both Natas and Bandits challenges enpowered my knowledge and skills on how to use the linux kernel and how to attack web applications. This led to consistent uses of performaing XXS and SQL injections to locate vulnerabilties on machines.
 
-Demonstrating the importance of cyber security to stakeholders to ensure that web applications and machines are properly secure and safe from any common risk and exploit. Focusing on both web application and 
-Expanding on my current knowledge of cyber security, this subject has 
-By compeleting various Overthe Wire challenges, both Natas and Bandits challenges enpowered my knowledge and skills on how to use the linux kernel and how to attack web applications. This led to consistent uses of performaing XXS and SQL injections to locate vulnerabilties on machines.
+When Luke discussing the details on the mindset of a ethical hacker, he distinctly said that nmap was a noisy tool and we should be careful when using it for an actual attack. This is notated by a hacker's mindset, the response of the attack to be undetected whilist attacking the correct ports of a system is important for stakeholders. This is determonstrated by various machines on vul-hub and Hack the Box when attackers attempt to gain root, a user can easily get root access when skilled and inject malicious malware or do any other malicious activities.
 
-When Luke discussing the details on the mindset of a ethical hacker, he distinctly said that nmap was a noisy tool, 
+The machines I could practice were PwnLab_init as it was the only vulnerable machine that I was able to get running properly. This was heavily due to network issues. There was also the HTB Lame where I was able to get both root and user access to the machine, this was through searching through different exploits till I found one that worked through a tool called metasploit. Other practtical ways to evoke my understanding were through overthewire challenges and doing writeups for these challenges gave me the opportunity to understand different concepts and methods of penetrating web applications. I attempted Pentester lab and other various soruces I could find to develop my skills and reinforce my understanding of web application and as a way for research.
 
-
-The machines I could practice were PwnLab_init as it was the only machine that I was able to get running properly. This was heavily due to network issues. There was also the HTB Lame where I was able to get both root and user access to the machine, this was through searching through different exploits till I found one that worked through a tool called metasploit. Other practtical ways to evoke my understanding were through overthewire challenges and doing writeups for these challenges gave me the opportunity to understand different concepts and methods of penetrating web applications. I attempted Pentester lab and other various soruces I could find to develop my skills and reinforce my understanding of web application and using 
-
-Having the right mindset is significant for a cyber security professional in understanding the right approach in breaking or protecting a system. When jai presented the walkthrough of DeloPitte, he mention after using nmap to not use port 4949, rather do a proper nmap scan with 6000 ports as in real world applications there isn't a way to tell if p 4949 was open unless nmap properly. By having the correct mindset within the security field, when breaking into a box, the development of technical skills is important in actually finding vulnerabilites in field. This can also be accomplished when considering which tool should be used, 
-
-The Boot2Root machine, understand how to break into it, setup a reverse shell, and achieving root access. When Darsh demonstrated his method of attacking a machine using various tools such as nmap, 
+Having the right mindset is significant for a cyber security professional in understanding the right approach in breaking or protecting a system. When jai presented the walkthrough of DeloPitte, he mention after using nmap to not use port 4949, rather do a proper nmap scan with 6000 ports as in real world applications there isn't a way to tell if p 4949 was open unless nmap properly. By having the correct mindset within the security field, when breaking into a box, the development of technical skills is important in actually finding vulnerabilites in field. This can also be accomplished when considering which tool should be used. The Boot2Root machine, understand how to break into it, setup a reverse shell, and achieving root access. When Darsh demonstrated his method of attacking a machine using various tools such as nmap. As these tools are designed for such attacks, attacking boxes on vul-hub and other machines 
 
 
 **Artefacts**
 
-Boot2Root notes - https://drive.google.com/open?id=1ajWnDikNaVf9YvZzXUL7d1oImmZC1eLe
-Bandit WriteUps - https://drive.google.com/open?id=1RS7AYbGE-lyFqDgq-FA90u3wqMH4O3_rch1UMTOLrSw
-Natas WriteUps - https://drive.google.com/open?id=11ugSvmmv_svZXwLQ86DtCLnwIJu28R6N
-Hack The Box Help N/A
-Hack The Box Lame N/A
+- Boot2Root notes - https://drive.google.com/open?id=1ajWnDikNaVf9YvZzXUL7d1oImmZC1eLe
+- Bandit WriteUps - https://drive.google.com/open?id=1RS7AYbGE-lyFqDgq-FA90u3wqMH4O3_rch1UMTOLrSw
+- Natas WriteUps - https://drive.google.com/open?id=11ugSvmmv_svZXwLQ86DtCLnwIJu28R6N
+- Hack The Box Help N/A
+- Hack The Box Lame N/A
 
 **SLO 3) Apply the Technical Skills to Develop, Model and Evaluate a Design** 
 
@@ -70,8 +63,8 @@ Reversing a program in week 4 with reverse engineering was challenging as this w
 
 **Artefacts**
 
-Expo Presentation notes - https://drive.google.com/open?id=1U5DaEjpzaXrZPvlWrwGUYJhyjn0nMUZS
-Password Exploit Slides -https://drive.google.com/open?id=1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA
+- Expo Presentation notes - https://drive.google.com/open?id=1U5DaEjpzaXrZPvlWrwGUYJhyjn0nMUZS
+- Password Exploit Slides -https://drive.google.com/open?id=1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA
 
 **SLO 4) Demonstrate Effective Collaboration and Communication Skills** 
 
@@ -87,9 +80,9 @@ Free-For-All sessions between the studio accomplished a better foothold of what 
 
 **Artefacts**
 
-Security tools - https://drive.google.com/open?id=1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U
-XML Presentation - https://drive.google.com/open?id=1DF073OHlASX33QZPnaieG0yda1nlGmMZDSPOvIFAWe0
-Free-For-All - https://drive.google.com/open?id=15PuXJGT0-pd1DEshAeN80tKanJ0_azTqukJsJXvYvA4
+- Security tools - https://drive.google.com/open?id=1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U
+- XML Presentation - https://drive.google.com/open?id=1DF073OHlASX33QZPnaieG0yda1nlGmMZDSPOvIFAWe0
+- Free-For-All - https://drive.google.com/open?id=15PuXJGT0-pd1DEshAeN80tKanJ0_azTqukJsJXvYvA4
 
 **SLO 5) Conduct Critical Self, Peer Review and Performance Evaluation**
 
@@ -101,7 +94,7 @@ Feedback through UTS Online further improved my understanding of my weaknesses a
 
 **Artefacts**
 
-Feedback 1-3 - https://drive.google.com/open?id=1oHvJGuPfXmb9Uy612wDeCK4GoCWSTcqBkexEk-98ZM0
+- Feedback 1-3 - https://drive.google.com/open?id=1oHvJGuPfXmb9Uy612wDeCK4GoCWSTcqBkexEk-98ZM0
 
 
 
