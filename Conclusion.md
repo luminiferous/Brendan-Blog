@@ -28,38 +28,50 @@ The security mind  as a ethical hacker and breaking into systems and web applica
 **Artefacts**
 
 
+Luke's Notes - https://drive.google.com/open?id=1J176DymCyM0tzv-TWVo_DQ6Ej627EwJF
+DeloPitte notes -https://drive.google.com/open?id=1zGz7fWA4IlYkJv6qVwq_IawnIunBPtGwSAPL6Z3T1aQ
+
 
 **SLO 2) Apply Design Thinking To Respond To A Defined Or Newly Identified Problem**
 
-Reflecting on the past 4 weeks, the various exploits and exploits learn't is important for security professionals to understand and engage with a skillful accentuation of said understanding through breaking into vulnerable web applications and systems. By developing skills to respond to situations by using a cyber security mindset involves the professional to explore different solutions to solve the same problem. There are various ways for a security professional to be involved with taking advantage of security and to 
+With technology consistently improving and changing, it is important to ensure that the technical workings of security develop and continue to learn the outer and inner working of systems and web applications. Reflecting on the past 4 weeks, the various exploits and exploits learn't is important for security professionals to understand and engage with a skillful accentuation of said understanding through breaking into vulnerable web applications and systems. By developing skills to respond to situations by using a cyber security mindset involves the professional to explore different solutions to solve the same problem. There are various ways for a security professional to be involved with taking advantage of security flaws and vulnerabilities through aplying their 
 
 Demonstrating the importance of cyber security to stakeholders to ensure that web applications and machines are properly secure and safe from any common risk and exploit. Focusing on both web application and 
+Expanding on my current knowledge of cyber security, this subject has 
+By compeleting various Overthe Wire challenges, both Natas and Bandits challenges enpowered my knowledge and skills on how to use the linux kernel and how to attack web applications. This led to consistent uses of performaing XXS and SQL injections to locate vulnerabilties on machines.
 
-By compeleting various Overthe Wire challenges, both Natas and Bandits challenges enpowered my knowledge and skills on how to use the linux kernel and how to attack web applications.
+When Luke discussing the details on the mindset of a ethical hacker, he distinctly said that nmap was a noisy tool, 
 
-Having the right mindset is significant for a cyber security professional in understanding the right approach in breaking or protecting a system. When Luke discuss the 
 
-Understanding key points 
+The machines I could practice were PwnLab_init as it was the only machine that I was able to get running properly. This was heavily due to network issues. There was also the HTB Lame where I was able to get both root and user access to the machine, this was through searching through different exploits till I found one that worked through a tool called metasploit. Other practtical ways to evoke my understanding were through overthewire challenges and doing writeups for these challenges gave me the opportunity to understand different concepts and methods of penetrating web applications. I attempted Pentester lab and other various soruces I could find to develop my skills and reinforce my understanding of web application and using 
 
-When jai presented 
+Having the right mindset is significant for a cyber security professional in understanding the right approach in breaking or protecting a system. When jai presented the walkthrough of DeloPitte, he mention after using nmap to not use port 4949, rather do a proper nmap scan with 6000 ports as in real world applications there isn't a way to tell if p 4949 was open unless nmap properly. By having the correct mindset within the security field, when breaking into a box, the development of technical skills is important in actually finding vulnerabilites in field. This can also be accomplished when considering which tool should be used, 
+
+The Boot2Root machine, understand how to break into it, setup a reverse shell, and achieving root access. When Darsh demonstrated his method of attacking a machine using various tools such as nmap, 
+
 
 **Artefacts**
+
+Boot2Root notes - https://drive.google.com/open?id=1ajWnDikNaVf9YvZzXUL7d1oImmZC1eLe
+Bandit WriteUps - https://drive.google.com/open?id=1RS7AYbGE-lyFqDgq-FA90u3wqMH4O3_rch1UMTOLrSw
+Natas WriteUps - https://drive.google.com/open?id=11ugSvmmv_svZXwLQ86DtCLnwIJu28R6N
+Hack The Box Help N/A
+Hack The Box Lame N/A
 
 **SLO 3) Apply the Technical Skills to Develop, Model and Evaluate a Design** 
 
-Applying technical skills to develop, model and evalutate a design by reseaching and understanding how vulnerabilities and exploits impact professionals to test
+Applying technical skills to develop, model and evalutate a design by reseaching and understanding how vulnerabilities and exploits impact professionals to test and break into systems and web applications. Professionals understand how to mitigate a vulnerability usually after the vulnerability is exploited. Understanding the technical details in understanding how to detect flaws within a system or a web application gives time for developer to patch the vulnerability. This is shown through bug bounty program that was explored through week 2 where I had to disclosure a vulnerability after finding it. 
 
-RSA SecurID 
+When presenting the RSA SecurID slides demonstrated the flaws, impacts of the breach started due to human error. This is fundamentally the reason for most attacks as for this scenario the attack were able to breach into the system through the use of phishing emails. Using an exploit of Adobe FLash with a zero-day attack exploit, to install a backdoor with the malicious tool poison ivy. The Remote Access Trojen allowed the attackers to achieve root access and steal credentials and other important informations from the servers. Through conducting research on this topic, I was able to understand how real attacks are utilising different small scale attacks such as XSS (Cross Site Scripting) and social engineering as one of the major ways for major attacks. This also taught me the technical details of what tools were used, how it happened and security measures that could be implemented for similar attacks. 
 
+Understanding the important and the function of various tools, nmap, john the ripper, hashcat, medusa, hydra, etc. It is important that professionals understand the practical use for these tools and effectively use these tools to their advantage. When it come to cyber security, the practical environment to learn and skillfully exploit systems by finding vulnerabilitites. When focusing on tools such as burp suit and intercepting packets, changing cookies, just understand the basics of these tools and other tools such as hashcat that allows the attacker to set rules before an attack shows the effectiveness of developing the knowledge and skills to use such tools. 
 
-Understanding the important and the function of various tools, nmap, john the ripper, hashcat 
-
-Reversing a program in week 4 with reverse enginer
+Reversing a program in week 4 with reverse engineering was challenging as this was my first attempt to understand how to reverse engineering a program to capture a flag. Throughout the week, after being able to solve one of the challenges. It becomes interesting when considers where to insert the break point, how to use gdb (GNU debugger) and by checking areas where the program could be vulnerable. I believe it is important that security professional understand the functionality of systems and reverse engineering would provide better security for the system. 
 
 **Artefacts**
 
-Hack The Box Help 
-Hack The Box Lame 
+Expo Presentation notes - https://drive.google.com/open?id=1U5DaEjpzaXrZPvlWrwGUYJhyjn0nMUZS
+Password Exploit Slides -https://drive.google.com/open?id=1LgbOMyO1fvXfUz_TwheiM4_RSzKEuBLUawDL1DWPNVA
 
 **SLO 4) Demonstrate Effective Collaboration and Communication Skills** 
 
@@ -74,9 +86,10 @@ The Expo, when I had to do a live demo of the HTB lame to other studio students 
 Free-For-All sessions between the studio accomplished a better foothold of what everyone did during the weekends. These free-for-alls are giving each other information by getting into small groups and collaborating on what we have done, learnt and continue on doing as we learn from other sutdents and their experiences with either CTF, research, HTB challenges, pentester labs. Collaborating with both high level and technical details on how we solve problems and what we did when there was an obstacle gave us ways to explore options to overcome such obstacles. 
 
 **Artefacts**
+
 Security tools - https://drive.google.com/open?id=1YFz8iwUdMEjCkpiFXQVxc4CMtRabEaehq3DdKgADF_U
-
-
+XML Presentation - https://drive.google.com/open?id=1DF073OHlASX33QZPnaieG0yda1nlGmMZDSPOvIFAWe0
+Free-For-All - https://drive.google.com/open?id=15PuXJGT0-pd1DEshAeN80tKanJ0_azTqukJsJXvYvA4
 
 **SLO 5) Conduct Critical Self, Peer Review and Performance Evaluation**
 
@@ -88,6 +101,7 @@ Feedback through UTS Online further improved my understanding of my weaknesses a
 
 **Artefacts**
 
+Feedback 1-3 - https://drive.google.com/open?id=1oHvJGuPfXmb9Uy612wDeCK4GoCWSTcqBkexEk-98ZM0
 
 
 
